@@ -1,0 +1,2 @@
+TRANSACTION - Card: 1234567890 | Amount: $1000.0 | Status: SUCCESS | Transaction ID: 81f78656 | Server Response: WITHDRAW_OK | Time: Thu Sep 11 12:50:30 BDT 2025
+TRANSACTION - Card: 1234567890 | Amount: $200.0 | Status: ERROR | Transaction ID: 81f78656 | Server Response: Duplicate Transaction Detected | Time: Thu Sep 11 12:50:43 BDT 2025
